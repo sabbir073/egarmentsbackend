@@ -16,4 +16,4 @@ First of all, its a dashboard to maintain the whole android and ios application.
 5/ Push notifications
 
 This dashboard will be intregrated with firebase later, now its on a stage to build html.
-# I will define everything here step by step. So its will help developer to cimmit here.
+# I will define everything here step by step. So its will help developer to commit here.
